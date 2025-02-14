@@ -32,36 +32,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/book-appointment/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/my-bookings/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/thank-you/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cancel-appointment/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cancel-payment/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/appointment-cancellation-confirmation/</loc>
-		<lastmod>2024-11-03T20:01:40+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/sample-page/</loc>
 		<lastmod>2024-11-03T19:26:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/testing/</loc>
-		<lastmod>2024-11-03T20:10:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/contact/</loc>
